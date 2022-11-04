@@ -4,7 +4,7 @@
 * 😄 Pronouns: she/her
 * 👩‍🎓 Currently pursuing a BS in Computer Science and Digital Narrative and Interactive Design at the University of Pittsburgh
 * 👩‍💻 Interned as a Software Engineer Intern at Capital One
-* ❤️ Passionate about creating immersive experineces and the intersection between technology and storytelling
+* ❤️ Passionate about creating interactive experiences and the intersection between technology and storytelling
 * ✏️ Favorite projects include [Ghost Hunting](https://github.com/jennzheng12315/Ghost-Hunting) and [The Crayon Strike](https://github.com/jennzheng12315/The-Crayon-Strike). Check them out and see more of my work below!
 * 📫 Find me via [LinkedIn](https://www.linkedin.com/in/jenniferzheng12315/)
 * ⚡ Fun fact: I'm a huge theater lover and love traveling!
